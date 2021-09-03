@@ -1,6 +1,3 @@
-# main.py
-
-#change answer value to prefrence but meep it as a string. 
 answer = "pepperoni"
 letters = set()
 
